@@ -1,0 +1,1 @@
+Divide o sinal de entrada em sub-bandas de frequência, analisando as frequências críticas, e considera a psicoacústica para inserir sinais que mascarem as baixas frequencias (inaudiveis para a audicao humana...).
